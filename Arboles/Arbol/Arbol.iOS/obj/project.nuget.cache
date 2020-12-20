@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8ze1R2ANTmVcWEPwvuYux3B8YNu5UL9LTQCKQ564ixrPUHauPbk9Ie31XjXEORm6qzLwVU3QmO1mpa0TzkXNQ==",
+  "success": true,
+  "projectFilePath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol.iOS\\Arbol.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
