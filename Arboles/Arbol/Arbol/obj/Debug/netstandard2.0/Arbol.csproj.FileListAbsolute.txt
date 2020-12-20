@@ -1,0 +1,15 @@
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\bin\Debug\netstandard2.0\Arbol.deps.json
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\bin\Debug\netstandard2.0\Arbol.dll
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\bin\Debug\netstandard2.0\ref\Arbol.dll
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\bin\Debug\netstandard2.0\Arbol.pdb
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\Arbol.csprojAssemblyReference.cache
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\View\ArbolPage.xaml.g.cs
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\Arbol.AssemblyInfoInputs.cache
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\Arbol.AssemblyInfo.cs
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\Arbol.csproj.CoreCompileInputs.cache
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\XamlC.stamp
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\Arbol.dll
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\ref\Arbol.dll
+C:\TRABAJO\Xamarin\Arboles\Arbol\Arbol\obj\Debug\netstandard2.0\Arbol.pdb
