@@ -22,14 +22,14 @@ namespace Arbol
         public int L;
         public int c;
         public Editor edit;
-        public ArbolBinarioOrdenado arbole;
+        public ArbolAA arbole;
 
         public MainPage()
         {
 
             edit = new Editor();
             
-            arbole = new ArbolBinarioOrdenado(edit);
+            arbole = new ArbolAA(edit);
             this.L = 1;
             this.c = 0;
             entry = new Entry();
@@ -49,19 +49,19 @@ namespace Arbol
 
             Button button1 = new Button
             {
-                Text = "preOrder",
+                Text = "Eliminar",
             };
             button1.Clicked += async (sender, args) => Cambio1();
 
             Button button2 = new Button
             {
-                Text = "InOrder",
+                Text = "Encontar",
             };
             button2.Clicked += async (sender, args) => Cambio2();
 
             Button button3 = new Button
             {
-                Text = "PosOrder",
+                Text = "Mostrar",
             };
             button3.Clicked += async (sender, args) => Cambio3();
 

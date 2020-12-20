@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aUrxI+iBmMGaQmkvOAoy+k+E04/3XQSHE3qSccWKXa0hxhwVbSTxtzH29oWdFOhiEOeko4ENqWWmHvEpeDNDxA==",
+  "dgSpecHash": "QRsUK0DvOx0t7U2ZWmCldxH5UrSgJhaqyZ1ZPZzrSfCHdOXXkfOw8vnM1scpZCHGqyE2jGnBr51G/dGmtQziUQ==",
   "success": true,
-  "projectFilePath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol.Android\\Arbol.Android.csproj",
+  "projectFilePath": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol.Android\\Arbol.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

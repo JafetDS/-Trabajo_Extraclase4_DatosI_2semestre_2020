@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\Arbol.csproj": {}
+    "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\Arbol.csproj": {}
   },
   "projects": {
-    "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\Arbol.csproj": {
+    "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\Arbol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\Arbol.csproj",
+        "projectUniqueName": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\Arbol.csproj",
         "projectName": "Arbol",
-        "projectPath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\Arbol.csproj",
+        "projectPath": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\Arbol.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\obj\\",
+        "outputPath": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

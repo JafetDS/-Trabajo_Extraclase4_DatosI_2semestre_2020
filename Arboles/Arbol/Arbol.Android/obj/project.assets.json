@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol.Android\\Arbol.Android.csproj",
+      "projectUniqueName": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol.Android\\Arbol.Android.csproj",
       "projectName": "Arbol.Android",
-      "projectPath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol.Android\\Arbol.Android.csproj",
+      "projectPath": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol.Android\\Arbol.Android.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol.Android\\obj\\",
+      "outputPath": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\Arbol.csproj": {
-              "projectPath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\Arbol.csproj"
+            "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\Arbol.csproj": {
+              "projectPath": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\Arbol.csproj"
             }
           }
         }

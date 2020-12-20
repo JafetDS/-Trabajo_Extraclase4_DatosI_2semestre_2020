@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UdMS9KGm6bX7SvidilxbIS6Og2IebVzvMvWgWFtnLiaRKO4ueKsBNlCaRRDJwemgtHQ6/l3j9Rvq76Wk8Zv+fA==",
+  "dgSpecHash": "KbrMey4z0HG0nuVz2QPehr+Phdti8NiSAQdiwy9m6jRnarYJ/jl24/wtb6/lUFrNZdAyluet8v8M8mWFc3bWng==",
   "success": true,
-  "projectFilePath": "C:\\TRABAJO\\Xamarin\\Arboles\\Arbol\\Arbol\\Arbol.csproj",
+  "projectFilePath": "C:\\UNIVERSIDAD\\Datos1_II2020\\Trab_Extraclase4\\Trabajo_Extraclase4\\Arboles\\Arbol\\Arbol\\Arbol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
